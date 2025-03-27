@@ -23,5 +23,7 @@ Comandos GIT:
 - git checkout -b <nombre-rama> -> Crear rama y nos pasamos a ella
 - git checkout <nombre-rama> -> Cambiarse de rama
 
+- git merge <nombre-rama> -> Fusionar la rama <nombre-rama> con la rama actual.
+
 *Cuando una rama se crea, no se puede ver en el  repositorio hasta que sincronizamos
 el remo y hacemos al menos 1 push*
