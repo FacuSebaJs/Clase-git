@@ -18,3 +18,10 @@ Comandos GIT:
 
 - git pull origin <rama> -> Descargar cambios a la rama de origen
 - git pull -> Descarga cambios a la rama en la que estas parado.
+
+- git branch <nombre-rama> -> Crear rama pero sin pasaron a la rama
+- git checkout -b <nombre-rama> -> Crear rama y nos pasamos a ella
+- git checkout <nombre-rama> -> Cambiarse de rama
+
+*Cuando una rama se crea, no se puede ver en el  repositorio hasta que sincronizamos
+el remo y hacemos al menos 1 push*
