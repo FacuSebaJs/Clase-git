@@ -10,6 +10,7 @@ Comandos GIT:
 - git commit -> Abre un cajon para titulo y descripcion
 
 - git remote add origin <enlace-repo> -> Conecta un proyecto con github
+- git remote set-url origin <enlace-repo> -> Reasignar el proyecto a otro repo
 
 - git push origin <rama> -> Pushea a la rama de origen.
 - git push -> Pushea cambios a la rama en la que estas parado.
